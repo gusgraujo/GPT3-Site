@@ -16,9 +16,7 @@
 .gpt3__header-content h1{
     font-family: var(--font-family);
     font-weight: 800;
-    background: -webkit-linear-gradient(rgb(154, 77, 158), rgb(243, 185, 77));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+  
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
